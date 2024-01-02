@@ -6,5 +6,6 @@ Features
 Daily Event Check: The system performs a daily check of the database to identify upcoming events.
 Personalized Messages: Utilizing participant data, the system sends tailored reminders about upcoming events and payment obligations.
 Low Registration Notification: Informs the organizer if the number of registered participants is below the anticipated level.
+
 Technologies Used
 Programming Language: Python
